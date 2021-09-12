@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Imposter Syndrome- The Mental Horror of New Developers",
+      "body": "At least 7 in 10 newbies are faced with this problem especially if they were lucky to get a job very early in their careers. Even senior devs are not left out as they may get hit when faced with an extremely unfamiliar cross. At its early stages, new devs may begin to question whether or not they were as good as they thought all this while. This would then give the never-sort consolation- Imposter Syndrome, a high seat in their minds. Why should imposter syndrome get all of this attention many may ask? Well, maybe it is because this demon has dropped to an irreversible extent, the esteem of many brilliant developers and also turned many prospective badasses, away from the game. Rollback- imposter syndrome is a feeling or belief that you are not as competent as you thought you were. At least, 60% of the time, it starts with meager problems such as a missing semicolon you can’t trace, a mismatched spelling of a variable or in the most popular case, the inability to ask the internet the right questions. Regardless, it is a very destructive belief and one must learn to take charge once it hits. So first, before making any move, one of these decisions must be made- To Feed this feeling or to phase it..",
+      "likes": 20
+    },
+    {
+      "id": 2,
+      "title": "How I am a Writer of Code and Contents",
+      "body": "The truth is whatever you call it, I am still a writer. The only difference is that one set is for human comprehension i'e content and another is for the web browser i.e code. In essence, how ever you put it, I am still a writer thank you. About which one I love more, I cannot really say because I really enjoy writing short stories and brand copies but at the same time, I am a mini control freak so giving the web browser commands to follow is like an obsessive hobby so I can't say i like any one in particular. Thank you again lol",
+      "likes": 170
+    },
+    {
+      "id": 3,
+      "title": "My Motivated Unmotivations",
+      "body": "In the very least, my head still stays in the game. But you cannot tell me that I am the only one who does not feel like working 80% of the time and des not work 80% of the time but still works that 100% of the time. Don't get me wrong, I am not crazy I just work in my head even when I say I'm not working.",
+      "likes": 70
+    },
+    {
+      "title": "How to Create an Email List",
+      "body": "I personally do not have one yet but I will be creating mine right now and in the process, show you how you can create yours.\n",
+      "likes": 0,
+      "id": 4
+    }
+  ]
+}
